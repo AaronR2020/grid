@@ -1,0 +1,5 @@
+@mixin banner($color1,$color2){
+    padding: 5px;
+    background-color:$color2;
+    color: $color1;
+}
